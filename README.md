@@ -10,7 +10,8 @@ MySQL Workbench 8.0 CE
 在本网站中，主要菜单下方样式栏包含四个切换页面，分别是首页、店内就餐、外卖点餐和会员中心。
 在“首页”界面，主要为宣传图片轮播图展示与开始点餐按钮跳转，路由变换；在“店内就餐”界面，左侧悬浮栏展示了不同类别的菜品选择，可供点击后在右侧展示对应菜品，点击右侧菜品后会显示菜品详细信息；在“外卖点餐”界面，从服务器取值前端渲染菜品，点击菜品后会进入菜品详情页，单击“添加到外卖单”会在外卖单中添加对应菜品，点击返回按钮可返回，单击“我的外卖单”后，会显示外卖单信息；在“会员中心”界面，上册有“登录/注册”按钮，单击后跳转登录页面，单击登录页面的注册按钮进入注册页面，在“会员中心”页面中间有餐馆宣传动画，在下方有相应的功能按钮。
 页面效果截图如下：
-           ![image](https://user-images.githubusercontent.com/70763281/184146219-56db428e-5031-4107-a162-dd0f3ce5aa81.png)
+
+![image](https://user-images.githubusercontent.com/70763281/184146219-56db428e-5031-4107-a162-dd0f3ce5aa81.png)
 ![image](https://user-images.githubusercontent.com/70763281/184146255-90ddf83d-046a-4c25-8721-169c83262afd.png)
 ![image](https://user-images.githubusercontent.com/70763281/184146340-95e0fd10-b6da-46f1-bb61-ee652cd1581a.png)
 ![image](https://user-images.githubusercontent.com/70763281/184146365-1d58984a-de79-4b8b-96c5-b02450781f3b.png)
